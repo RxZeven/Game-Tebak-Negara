@@ -1,0 +1,1 @@
+"Game Tebak Negara adalah sebuah permainan edukasi yang menguji pengetahuan pengguna tentang nama-nama negara di dunia. Pemain akan diberikan huruf acak dari nama sebuah negara dan harus menebak nama negara tersebut dalam waktu yang ditentukan."
